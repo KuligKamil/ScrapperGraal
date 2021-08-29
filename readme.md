@@ -23,3 +23,7 @@ A cat(1) clone with syntax highlighting and Git integration.
 
 https://github.com/sharkdp/bat
 
+## Pycharm settings
+using wsl as a remote interpreter
+
+https://www.jetbrains.com/help/pycharm/using-wsl-as-a-remote-interpreter.html#wsl-terminal
