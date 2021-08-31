@@ -1,5 +1,14 @@
 # Scrapper Graal
 
+Scrapping https://soundcloud.com/nocopyrightsounds
+
+## Docs:
+Selenium guidelines
+https://www.selenium.dev/documentation/guidelines/
+Selenium - Python
+https://selenium-python.readthedocs.io/index.html
+
+
 ## Requirements:
 * beautifulsoup4
 * chromedriver-binary
@@ -16,6 +25,16 @@ chromedriver_win32.zip
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ## Linux
+### pip: command not found
+
+https://stackoverflow.com/questions/9780717/bash-pip-command-not-found
+
+### check linux version
+
+cat /etc/os-release
+
+### useful shortcut
+
 ll = ls -la
 
 ### bat
@@ -27,3 +46,5 @@ https://github.com/sharkdp/bat
 using wsl as a remote interpreter
 
 https://www.jetbrains.com/help/pycharm/using-wsl-as-a-remote-interpreter.html#wsl-terminal
+
+
