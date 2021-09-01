@@ -1,8 +1,14 @@
 # Scrapper Graal
+[![Python 3.9.0](https://img.shields.io/badge/python-3.9.0-blue.svg)](https://www.python.org/downloads/release/)
 
 Scrapping https://soundcloud.com/nocopyrightsounds
 
 ## Docs:
+### Simple Python Version Management: pyenv
+The application-specific .python-version file in the current directory 
+
+https://github.com/pyenv/pyenv
+
 Selenium guidelines
 https://www.selenium.dev/documentation/guidelines/
 Selenium - Python
