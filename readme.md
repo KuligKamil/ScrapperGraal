@@ -7,7 +7,11 @@ Scrapping https://soundcloud.com/nocopyrightsounds
 ### Simple Python Version Management: pyenv
 The application-specific .python-version file in the current directory 
 
+#### pyenv
 https://github.com/pyenv/pyenv
+
+#### direnv
+https://direnv.net/
 
 Selenium guidelines
 https://www.selenium.dev/documentation/guidelines/
@@ -16,6 +20,8 @@ https://selenium-python.readthedocs.io/index.html
 
 
 ## Requirements:
+* pyenv
+* direnv
 * beautifulsoup4
 * chromedriver-binary
 * chromedriver-binary-auto
@@ -42,6 +48,10 @@ cat /etc/os-release
 ### useful shortcut
 
 ll = ls -la
+
+### uninstall whole packages
+pip uninstall -r requirements.txt -y
+pip uninstall -y -r <(pip freeze)
 
 ### bat
 A cat(1) clone with syntax highlighting and Git integration.
